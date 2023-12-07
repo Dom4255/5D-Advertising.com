@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+}
+
+.coming-soon-stuff {
+    margin-top: 15%;
+}
+
+h1 {
+    font-size: 50px;
+}
